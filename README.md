@@ -1,3 +1,7 @@
+
+https://www.jianshu.com/p/e3e277faec01   (springboot2.0+activiti 7)
+https://blog.csdn.net/qq_40451631/article/details/84937251 (Activiti7工作流+SpringBoot)
+
 https://gitee.com/wyy396731037/springboot-activiti
 
 https://my.oschina.net/u/2344382/blog/1615251

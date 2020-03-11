@@ -28,6 +28,14 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
+
+        <!--mybatis 数据持久层 -->
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>2.1.1</version>
+        </dependency>
+
         <!--springboot 启动器 测试-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -86,6 +94,7 @@
             <artifactId>druid</artifactId>
             <version>1.1.16</version>
         </dependency>
+
 
 
     </dependencies>
