@@ -74,6 +74,7 @@
                 </exclusion>
             </exclusions>
         </dependency>
+
         <!--mysql 数据库驱动-->
         <dependency>
             <groupId>mysql</groupId>
