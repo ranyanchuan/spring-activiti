@@ -1,4 +1,6 @@
 
+https://yq.aliyun.com/articles/697485  (SpringBoot - 工作流Activiti开发)
+
 https://www.jianshu.com/p/e3e277faec01   (springboot2.0+activiti 7)
 https://blog.csdn.net/qq_40451631/article/details/84937251 (Activiti7工作流+SpringBoot)
 
