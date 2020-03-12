@@ -36,7 +36,7 @@ public class BookTest {
     public void testInsertBook() {
 
         Book book = new Book();
-        book.setTitle("中文 web ");
+        book.setTitle("川 web ");
         book.setPage(200);
         bookService.insertBook(book);
     }
